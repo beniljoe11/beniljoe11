@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Benil 👋
 
-<!--
-**beniljoe11/beniljoe11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst | Power BI Developer | Backend Developer
 
-Here are some ideas to get you started:
+I am passionate about data analysis, backend development, dashboard creation, and business intelligence solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- 🎓 B.Sc Computer Science
+- 🎓 MBA in HR & Business Analytics
+
+### Skills
+- Power BI
+- Python
+- SQL
+- Excel
+- Data Visualization
+- Backend Development
+- Flask
+- REST API Basics
+
+### Projects
+- Amazon Sales Analytics Dashboard
+- Rock Paper Scissors Python Game
+- Backend Development Mini Projects
+
+### Currently Learning
+- Advanced SQL
+- Python for Data Analysis
+- Backend Development with Flask
+- Machine Learning Basics
+
+### Career Interests
+- Data Analyst Roles
+- Power BI Developer Roles
+- Python Backend Developer Roles
+- Business Intelligence & Analytics
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/benil-joe-11b7462b1/
+- GitHub: github.com/beniljoe11
