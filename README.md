@@ -1,4 +1,4 @@
-# Hi, I'm Benil 👋
+# Hi, I'm Benil Joe P
 
 ## Aspiring Data Analyst | Power BI Developer | Backend Developer
 
